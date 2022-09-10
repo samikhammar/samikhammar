@@ -12,7 +12,7 @@
 <h3 align="center">🤝🏻 &nbsp;Connect with Me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/sami-khammar"><img src="https://img.shields.io/badge/-Sami Khammar-0077B5?style=flat&logo=Linkedin&logoColor=white" height="25"/>
-  <a href="mailto:sami.khammar.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" height="25"/>
+  <a href="mailto:sami.khammar.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ea4335?style=flat&logo=Gmail&logoColor=white" height="25"/>
 </p>
   
 
