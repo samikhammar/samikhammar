@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/-HTML-e34f26?style=flat&logo=HTML5&logoColor=eeeeee" alt="HTML" height="25"/> &nbsp;
   <img src="https://img.shields.io/badge/-CSS-1572b6?style=flat&logo=CSS3&logoColor=eeeeee" alt="CSS" height="25"/> &nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=232323" alt="JavaScript" height="25"/> &nbsp;
-  <img src="https://img.shields.io/badge/-React-5ecfee?style=flat&logo=react&logoColor=eeeeee" alt="React" height="25"/> &nbsp;
+  <img src="https://img.shields.io/badge/-React-007ACC?style=flat&logo=react&logoColor=eeeeee" alt="React" height="25"/> &nbsp;
 
 </p>
 
