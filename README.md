@@ -37,5 +37,10 @@
   <img src="https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=eeeeee" alt="Git" height="25"/> &nbsp;
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=eeeeee" alt="Visual Studio Code" height="25"/> 
 </p>
+    
+<p align="center">
+  <img src="https://img.shields.io/badge/-Docker-eeeeee?style=flat&logo=docker&logoColor=007ACC" alt="Sass" height="25"/> &nbsp;
+  <img src="https://img.shields.io/badge/-Kubernetes-eeeeee?style=flat&logo=kubernetes&logoColor=2f67da" alt="NextJs" height="25"/> &nbsp;
+</p>
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=samikhammar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="bahaayoussof"/> -->
