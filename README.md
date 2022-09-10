@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sami Khammar</h1>
 <h3 align="center">A passionate Full stack developer from Algeria</h3>
 <p align="center">i build hight quality ✨ Web & Mobile Applications📱and awesome Games🎮</p>
-<p align="center">- 💪 Owner of <a href="https://www.npmjs.com/package/react-facebook-ui">react-facebook-ui</a></p>
+<p align="center">- 📦 My Newest NPM Package</p>
+<p align="center">
+  <a href="https://www.npmjs.com/package/react-facebook-ui"><img src="https://img.shields.io/badge/-React Facebook UI-232323?style=flat&logo=npm&logoColor=white" height="25"/></a>
+</p>
+
 <p align="center">- 📄 Know about my experiences <a href="https://samikhammar.github.io/cv.pdf"><b>Resume</b></a></p>
 
 <h3 align="center">Visit my Portfolio:</h3>
